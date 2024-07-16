@@ -12,7 +12,6 @@ class FormValidation {
         checked: "",
         newsletter: ""
     }
-
     errorValues = {
         emailErr: "",
         passwordErr: "",
